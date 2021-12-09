@@ -1,8 +1,8 @@
 {
-  "name": "simplefolio",
+  "name": "portfoliyum",
   "version": "1.0.1",
   "private": "true",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "My clean, beautiful and responsive portfolio template for Developers!",
   "source": "src/index.html",
   "scripts": {
     "start": "parcel",
@@ -13,12 +13,8 @@
     "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Abolfazl Ranjbar",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
